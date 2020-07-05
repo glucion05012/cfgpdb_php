@@ -1,0 +1,11 @@
+Church duplicate entry
+ch add - name exist - (division not saved on session)
+ch, min, mem edit - name exist  - (field not saved on session)
+
+summary/dtc
+add, edit member design tables
+REPORTS
+
+
+Church summary *
+
